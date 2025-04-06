@@ -23,7 +23,7 @@
       "commandName": "IISExpress",
       "launchBrowser": true,
       "launchUrl": "swagger",
-      "applicationUrl": "http://www.590team1.info:8081",
+      "applicationUrl": "http://mylink.590team1.info:8081",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
