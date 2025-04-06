@@ -1,0 +1,23 @@
+[
+    { 
+        "id": 1,
+        "name": "John Doe", 
+        "email": "john@example.com", 
+        "password": "test1234", 
+        "encryptedpassword": "8ba423d368b774ba660c165e3771577d3f299a03630a985cab78fcce83640655" 
+    },
+    {  
+        "id": 2, 
+        "name": "Jane Smith", 
+        "email": "jane@example.com", 
+        "password": "itsatest1234", 
+        "encryptedpassword": "85272094366bf270e0441e2c2085ac53b4bd2101a267cfc5c583ce3649f60ceb"  
+    },
+    { 
+        "id": 3, 
+        "name": "Bob Brown", 
+        "email": "bob@example.com", 
+        "password": "sometest1234", 
+        "encryptedpassword": "6c06e8a8c29ea5670b31db004e1f1ec3f2ca202512b9be47c61f9a92202a8f36"  
+    }
+]
