@@ -1,0 +1,15 @@
+.login-page {
+    background-image: url('./images/searstower.png'); /* Replace with the actual URL of the Sears Tower image */
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+}
+
+.login-container {
+    background: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 400px;
+    margin: auto;
+    margin-top: 20%;
+}

@@ -1,0 +1,32 @@
+:root {
+	--ion-color-redruby: #cc0000;
+	--ion-color-redruby-rgb: 204,0,0;
+	--ion-color-redruby-contrast: #ffffff;
+	--ion-color-redruby-contrast-rgb: 255,255,255;
+	--ion-color-redruby-shade: #b40000;
+	--ion-color-redruby-tint: #d11a1a;
+
+	--ion-color-danger: #73000a;
+	--ion-color-danger-rgb: 115,0,10;
+	--ion-color-danger-contrast: #ffffff;
+	--ion-color-danger-contrast-rgb: 255,255,255;
+	--ion-color-danger-shade: #650009;
+	--ion-color-danger-tint: #811a23;
+}
+
+.ion-color-redruby {
+	--ion-color-base: var(--ion-color-redruby);
+	--ion-color-base-rgb: var(--ion-color-redruby-rgb);
+	--ion-color-contrast: var(--ion-color-redruby-contrast);
+	--ion-color-contrast-rgb: var(--ion-color-redruby-contrast-rgb);
+	--ion-color-shade: var(--ion-color-redruby-shade);
+	--ion-color-tint: var(--ion-color-redruby-tint);
+}
+.ion-color-danger {
+	--ion-color-danger: #73000a;
+	--ion-color-danger-rgb: 115,0,10;
+	--ion-color-danger-contrast: #ffffff;
+	--ion-color-danger-contrast-rgb: 255,255,255;
+	--ion-color-danger-shade: #650009;
+	--ion-color-danger-tint: #811a23;
+}

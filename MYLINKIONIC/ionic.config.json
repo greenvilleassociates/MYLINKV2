@@ -1,0 +1,7 @@
+{
+  "name": "Certs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
